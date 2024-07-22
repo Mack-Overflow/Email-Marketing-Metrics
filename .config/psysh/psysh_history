@@ -1,0 +1,5 @@
+exit
+config('mail.mailers.postmark.api_token')
+config('mail.mailers.postmark')
+exit
+config('mail.mailers.postmark')
